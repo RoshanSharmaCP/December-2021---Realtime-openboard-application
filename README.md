@@ -32,3 +32,13 @@ To deploy this project run,simply go on link below
 - Make sticky notes(draggable anywhere to screen)
 - Redo Actions
 - Undo Actions
+
+
+## Uses
+
+Some uses of this project:
+
+- Teaching
+- Meetings
+- Making notes
+
